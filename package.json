@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@types/antd": "^1.0.0",
+    "@types/axios": "^0.14.0",
     "@uiw/react-codemirror": "^4.23.0",
     "antd": "^5.20.3",
     "axios": "^1.7.5",
@@ -18,7 +20,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
-    "@types/react": "^18.3.3",
+    "@types/react": "^18.3.4",
     "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-react": "^4.3.1",
     "eslint": "^9.9.0",
@@ -27,6 +29,6 @@
     "globals": "^15.9.0",
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.0.1",
-    "vite": "^5.4.1"
+    "vite": "^5.4.2"
   }
 }
